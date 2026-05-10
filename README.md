@@ -1,2 +1,13 @@
 # CS-Semester-2
-🛠️ Build. Code. Repeat. 📚 My Semester 2 Workspace 🎯 Goal: Mastering CS Fundamentals 🏛️ University: Iqra University Islamabad
+# 📚 CS Semester 2 - Journey
+🛠️ **Build. Code. Repeat.**
+
+### 🎯 My Goal
+Mastering CS Fundamentals and building a solid foundation in Programming.
+
+### 🏛️ University
+Iqra University Islamabad
+
+### 📂 Projects in this Repository
+* 💻 **Ordering System:** A C++ project using CRUD operations.
+* 🧬 **Inheritance:** Exploring Multi-level Inheritance in OOP.
