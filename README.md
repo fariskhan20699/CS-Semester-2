@@ -1,13 +1,75 @@
-# CS-Semester-2
-# 📚 CS Semester 2 - Journey
-🛠️ **Build. Code. Repeat.**
+# CS Semester 2 Repository
 
-### 🎯 My Goal
-Mastering CS Fundamentals and building a solid foundation in Programming.
+## 📘 Overview
 
-### 🏛️ University
-Iqra University Islamabad
+This repository contains my Semester 2 Computer Science projects, assignments, and practice implementations developed in C++. The primary focus of this repository is to strengthen core programming concepts and Object-Oriented Programming (OOP) principles through practical development.
 
-### 📂 Projects in this Repository
-* 💻 **Ordering System:** A C++ project using CRUD operations.
-* 🧬 **Inheritance:** Exploring Multi-level Inheritance in OOP.
+---
+
+## 🎯 Objectives
+
+- Develop strong programming fundamentals
+- Practice Object-Oriented Programming concepts
+- Improve problem-solving and logical thinking
+- Build real-world console-based applications in C++
+
+---
+
+## 🏛️ Academic Information
+
+**University:** Iqra University Islamabad  
+**Program:** Bachelor of Computer Science (BSCS)
+
+---
+
+## 📂 Repository Contents
+
+### 🔹 Ordering Management System
+A console-based CRUD application developed in C++ that allows:
+- Order creation
+- Record updating
+- Data display and management
+
+### 🔹 OOP Inheritance Programs
+Practice implementations demonstrating:
+- Single Inheritance
+- Multi-Level Inheritance
+- Hierarchical Inheritance
+
+### 🔹 Home Decor Management System
+An Object-Oriented Programming project based on:
+- Abstraction
+- Runtime Polymorphism
+- Pure Virtual Functions
+- Function Overriding
+
+The system manages different categories of home décor items and calculates prices according to material type and item size.
+
+---
+
+## ⚙️ Technologies & Concepts
+
+### Programming Language
+- C++
+
+### Core Concepts
+- Classes & Objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Dynamic Memory Allocation
+
+---
+
+## 🚀 Purpose of This Repository
+
+This repository represents my academic learning journey and practical implementation of Computer Science concepts through hands-on programming projects.
+
+---
+
+## 👨‍💻 Author
+
+**Faris Khan**  
+BSCS Student — Iqra University Islamabad
