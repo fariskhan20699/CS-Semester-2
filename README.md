@@ -2,16 +2,16 @@
 
 ## 📘 Overview
 
-This repository contains my Semester 2 Computer Science projects, assignments, and practice implementations developed in C++. The main focus is to strengthen core programming concepts and Object-Oriented Programming (OOP) through practical work.
+This repository contains my Semester 2 Computer Science projects, assignments, and practice implementations developed in C++. The main focus is to strengthen core programming concepts and Object Oriented Programming (OOP) through practical work.
 
 ---
 
 ## 🎯 Objectives
 
 - Develop strong programming fundamentals  
-- Practice Object-Oriented Programming concepts  
-- Improve problem-solving and logical thinking  
-- Build real-world console-based applications in C++  
+- Practice Object Oriented Programming concepts  
+- Improve problem solving and logical thinking  
+- Build real world console based applications in C++  
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains my Semester 2 Computer Science projects, assignments, a
 ## 📂 Repository Contents
 
 ### 🔹 Ordering Management System
-A console-based CRUD application developed in C++ that allows:
+A console based CRUD application developed in C++ that allows:
 - Order creation  
 - Record updating  
 - Data display and management  
@@ -41,7 +41,7 @@ Practice implementations demonstrating:
 ---
 
 ### 🔹 Home Decor Management System
-An Object-Oriented Programming project based on:
+An Object Oriented Programming project based on:
 - Abstraction  
 - Runtime Polymorphism  
 - Pure Virtual Functions  
@@ -50,7 +50,7 @@ An Object-Oriented Programming project based on:
 ---
 
 ### 🔹 Library Management System
-A console-based OOP project developed in C++ that demonstrates:
+A console based OOP project developed in C++ that demonstrates:
 - Book management (Fiction, Academic, Reference)  
 - Book borrowing and returning system  
 - Fine calculation based on delay and book type  
