@@ -43,8 +43,11 @@ An Object Oriented Programming project based on:
 - Pure Virtual Functions
 - Function Overriding
 
-The system manages different categories of home décor items and calculates prices according to material type and item size.
-
+###🔹 Library Management System
+A console based OOP project developed in C++ that demonstrates:
+- Book management (Fiction, Academic, Reference)
+- Book borrowing and returning system
+- Fine calculation based on delay and book type
 ---
 
 ## ⚙️ Technologies & Concepts
