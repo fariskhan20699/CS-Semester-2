@@ -75,7 +75,7 @@ A console based OOP project developed in C++ that demonstrates:
 
 ## 🚀 Purpose of This Repository
 
-This repository represents my academic learning journey and practical implementation of Computer Science concepts through hands-on programming projects.
+This repository represents my academic learning journey and practical implementation of Computer Science concepts through hands on programming projects.
 
 ---
 
