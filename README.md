@@ -2,16 +2,16 @@
 
 ## 📘 Overview
 
-This repository contains my Semester 2 Computer Science projects, assignments, and practice implementations developed in C++. The primary focus of this repository is to strengthen core programming concepts and Object-Oriented Programming (OOP) principles through practical development.
+This repository contains my Semester 2 Computer Science projects, assignments, and practice implementations developed in C++. The primary focus of this repository is to strengthen core programming concepts and Object Oriented Programming (OOP) principles through practical development.
 
 ---
 
 ## 🎯 Objectives
 
 - Develop strong programming fundamentals
-- Practice Object-Oriented Programming concepts
-- Improve problem-solving and logical thinking
-- Build real-world console-based applications in C++
+- Practice Object Oriented Programming concepts
+- Improve problem solving and logical thinking
+- Build real world console based applications in C++
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains my Semester 2 Computer Science projects, assignments, a
 ## 📂 Repository Contents
 
 ### 🔹 Ordering Management System
-A console-based CRUD application developed in C++ that allows:
+A console based CRUD application developed in C++ that allows:
 - Order creation
 - Record updating
 - Data display and management
@@ -33,11 +33,11 @@ A console-based CRUD application developed in C++ that allows:
 ### 🔹 OOP Inheritance Programs
 Practice implementations demonstrating:
 - Single Inheritance
-- Multi-Level Inheritance
+- Multi Level Inheritance
 - Hierarchical Inheritance
 
 ### 🔹 Home Decor Management System
-An Object-Oriented Programming project based on:
+An Object Oriented Programming project based on:
 - Abstraction
 - Runtime Polymorphism
 - Pure Virtual Functions
@@ -65,11 +65,11 @@ The system manages different categories of home décor items and calculates pric
 
 ## 🚀 Purpose of This Repository
 
-This repository represents my academic learning journey and practical implementation of Computer Science concepts through hands-on programming projects.
+This repository represents my academic learning journey and practical implementation of Computer Science concepts through hands on programming projects.
 
 ---
 
 ## 👨‍💻 Author
 
 **Faris Khan**  
-BSCS Student — Iqra University Islamabad
+BSCS Student | Iqra University | Islamabad
