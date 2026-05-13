@@ -1,0 +1,116 @@
+#include <iostream>
+using namespace std;
+class Account{
+	protected:
+		string name,account;
+		double balance;
+	public:
+		Account(string n,string a,double b):name(n),account(a),balance(b){}
+		//pure virtual funcrions....
+		virtual void deposit()=0;
+		virtual void withdraw()=0;
+		virtual void displayBalance()=0;
+};
+class Current:public Account{
+	public:
+		Current(string n,string a,double b):Account(n,a,b){}
+		
+		void deposit()override{
+			float amount;
+			
+			cout<<"Enter the amount to Deposit: ";
+			cin>>amount;
+			
+			balance+=amount;
+			cout<<"\nDeposit Amount Succesfully....\n";
+		}
+		void withdraw()override{
+			float amount;
+					
+			cout<<"Enter the Amount to Withdraw: ";
+			cin>>amount;
+					
+			if(amount>balance){
+				cout<<"\nInsuffient Balance\n";
+			}
+			else{			
+				balance-=amount;
+				cout<<"With draw Amount Sucessfully\n";
+				}
+		}
+		void displayBalance()override{
+			cout<<"Balance: "<<balance<<endl;
+		}
+};
+class Saving:public Account{
+	public:
+		Saving(string n,string a,double b):Account(n,a,b){}
+		
+		void deposit()override{
+			float amount;
+			
+			cout<<"Enter the Amount to Deposit: ";
+			cin>>amount;
+			
+			balance+=amount;
+			cout<<"\nDeposit Amount Succesfully....\n";
+		}
+		void withdraw()override{
+			float amount;
+			
+			cout<<"Enter the Amount to Withdraw: ";
+			cin>>amount;
+			
+			if(amount>balance){
+				cout<<"\nInsuffient Balance\n";
+			}
+			else{			
+			balance-=amount;
+			cout<<"With draw Amount Sucessfully\n";
+			}
+		}
+		void displayBalance() override{
+    		double interest = balance * 0.15;
+    		cout<<"Balance with Interest: "<<balance + interest<<endl;
+}
+};
+int main(){
+	int ch;
+	Account* a = NULL;
+	Account* a1 = NULL;
+	while(true){
+	cout<<"==================="<<endl;
+	cout<<"1-Current Account"<<endl;
+	cout<<"2-Saving Acount"<<endl;
+	cout<<"3-Exit Program"<<endl;
+	cout<<"Enter Choice: ";
+	cin>>ch;
+	cout<<"=================="<<endl;
+	
+	switch(ch){
+		case 1:{
+			a=new Current("Faris","123456789",590);
+			a->deposit();
+			a->displayBalance();
+			a->withdraw();
+			a->displayBalance();
+		break;
+		}
+		case 2:{
+			a1=new Saving("Saad","987654321",3400);
+			a1->deposit();
+			a1->displayBalance();
+		break;
+		}
+		case 3:{
+			delete a;
+			delete a1;
+			return 0;
+		break;
+		}
+		default:
+			cout<<"you enter wrong choice  enter correct.. choice"<<endl;
+	}
+}
+	return 0;
+}
