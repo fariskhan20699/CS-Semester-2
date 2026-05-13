@@ -10,6 +10,7 @@ class Account{
 		virtual void deposit()=0;
 		virtual void withdraw()=0;
 		virtual void displayBalance()=0;
+virtual~Account(){}
 };
 class Current:public Account{
 	public:
