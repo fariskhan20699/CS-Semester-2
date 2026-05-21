@@ -9,25 +9,25 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student focused on building strong programming fundamentals and practical problem-solving skills using **C++ and Object-Oriented Programming (OOP)**.
+I am a Computer Science student focused on building strong programming fundamentals and practical problem solving skills using **C++ and Object Oriented Programming (OOP)**.
 
 ---
 
 ## 📘 Overview
 
-This repository contains my Semester 2 C++ projects, assignments, and practice implementations.
+This repository contains my Semester 2 C++ projects,assignments,and practice implementations.
 
 It demonstrates my understanding of:
 - Core programming logic
-- Object-Oriented Programming (OOP)
-- Real-world console-based systems
+- Object Oriented Programming (OOP)
+- Real world console based systems
 
 ---
 
 ## 🏛️ Academic Info
 
 - 🎓 University: Iqra University Islamabad  
-- 📘 Program: BS Computer Science (BSCS)  
+- 📘 Program: BS Computer Science(BSCS) Second Semestor 
 
 ---
 
@@ -36,7 +36,7 @@ It demonstrates my understanding of:
 ---
 
 ### 🏦 Bank Management System
-A console-based banking system that supports deposit, withdrawal, and balance inquiry operations.
+A console based banking system that supports deposit, withdrawal, and balance inquiry operations.
 
 ---
 
@@ -56,7 +56,7 @@ A simple ordering system to manage customer orders and processing.
 ---
 
 ### 📦 Order Menu System
-A menu-driven program to handle ordering operations efficiently.
+A menu driven program to handle ordering operations efficiently.
 
 ---
 
@@ -75,7 +75,7 @@ A library system with book management, borrowing, returning, and fine calculatio
 
 ---
 
-### 🧩 Multi-Level Inheritance Program
+### 🧩 Multi Level Inheritance Program
 A program demonstrating multilevel inheritance concept in C++.
 
 ---
@@ -86,7 +86,7 @@ A basic program showing encapsulation in OOP.
 ---
 
 ### 🚗 Vehicle Management System (Vector Based)
-A polymorphism-based vehicle system using vector and dynamic memory allocation.
+A polymorphism based vehicle system using vector and dynamic memory allocation.
 
 ---
 
@@ -115,6 +115,6 @@ This repository demonstrates my ability to implement theoretical OOP concepts in
 
 ## 👨‍💻 Author
 
-**Faris Khan**  
+**Muhammad Faris Khan**  
 BS Computer Science Student  
 Iqra University Islamabad  
