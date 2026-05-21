@@ -19,7 +19,7 @@ This repository contains my Semester 2 C++ projects,assignments,and practice imp
 
 It demonstrates my understanding of:
 - Core programming logic
-- Object Oriented Programming (OOP)
+- Object Oriented Programming(OOP)
 - Real world console based systems
 
 ---
@@ -27,7 +27,7 @@ It demonstrates my understanding of:
 ## 🏛️ Academic Info
 
 - 🎓 University: Iqra University Islamabad  
-- 📘 Program: BS Computer Science(BSCS) Second Semestor 
+- 📘 Program: BS Computer Science(BSCS) 
 
 ---
 
@@ -36,7 +36,7 @@ It demonstrates my understanding of:
 ---
 
 ### 🏦 Bank Management System
-A console based banking system that supports deposit, withdrawal, and balance inquiry operations.
+A console based banking system that supports deposit,withdrawal,and balance inquiry operations.
 
 ---
 
@@ -65,13 +65,13 @@ A management system for home decor products with OOP structure.
 
 ---
 
-### 🏠 Home Decor using Vector/Array
+### 🏠 Home Decor using (Vector/Array)
 Implementation of home decor system using STL vectors and arrays.
 
 ---
 
 ### 📚 Library Management System
-A library system with book management, borrowing, returning, and fine calculation features.
+A library system with book management,borrowing,returning,and fine calculation features.
 
 ---
 
@@ -93,8 +93,8 @@ A polymorphism based vehicle system using vector and dynamic memory allocation.
 ## ⚙️ Technologies Used
 
 - C++
-- Object-Oriented Programming (OOP)
-- STL (Vector, Arrays)
+- Object Oriented Programming (OOP)
+- STL (Vector,Arrays)
 - Dynamic Memory Allocation
 
 **Core Concepts:**
@@ -116,5 +116,5 @@ This repository demonstrates my ability to implement theoretical OOP concepts in
 ## 👨‍💻 Author
 
 **Muhammad Faris Khan**  
-BS Computer Science Student  
+BS Computer Science Student(Second Semestor)   
 Iqra University Islamabad  
