@@ -107,8 +107,12 @@ int main(){
     Decor.push_back(new LightDecor("Lamp","metal",9));
     Decor.push_back(new FurnitureDecor("Bookself","fabric",29));
     
-    for(HomeDecor*h:Decor){
+    for(auto h : Decor){
         h->display();
     }
+    for(auto h : Decor){
+        delete h;
+    }
+    Decor.clear();
     return 0;
 }
