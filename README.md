@@ -1,33 +1,33 @@
-# 📚 CS Semester 2 Repository
+# 🚀 CS Semester 2 – C++ Projects Portfolio
 
 ![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
-![OOP](https://img.shields.io/badge/OOP-Concepts-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![OOP](https://img.shields.io/badge/Object%20Oriented-Programming-green)
+![Status](https://img.shields.io/badge/Projects-Completed-success)
 ![Level](https://img.shields.io/badge/Level-Internship%20Ready-orange)
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science student focused on building strong programming fundamentals and practical problem-solving skills using **C++ and Object-Oriented Programming (OOP)**.
 
 ---
 
 ## 📘 Overview
 
-This repository contains my Semester 2 Computer Science projects, assignments, and practice implementations developed in C++.
+This repository contains my Semester 2 C++ projects, assignments, and practice implementations.
 
-It focuses on strengthening core programming concepts and Object Oriented Programming through practical console based applications.
-
----
-
-## 🎯 Objectives
-
-🧠 Develop strong programming fundamentals  
-🏗️ Practice Object Oriented Programming concepts  
-🔍 Improve problem solving and logical thinking  
-💻 Build real world console based applications in C++
+It demonstrates my understanding of:
+- Core programming logic
+- Object-Oriented Programming (OOP)
+- Real-world console-based systems
 
 ---
 
-## 🏛️ Academic Information
+## 🏛️ Academic Info
 
-🎓 University: Iqra University Islamabad  
-📘 Program: Bachelor of Computer Science (BSCS)
+- 🎓 University: Iqra University Islamabad  
+- 📘 Program: BS Computer Science (BSCS)  
 
 ---
 
@@ -35,76 +35,86 @@ It focuses on strengthening core programming concepts and Object Oriented Progra
 
 ---
 
-### 📦 Ordering Management System
-
-A console based CRUD application developed in C++ that allows order processing and data management.
-
-Features  
-Order creation  
-Record updating  
-Data display and management  
+### 🏦 Bank Management System
+A console-based banking system that supports deposit, withdrawal, and balance inquiry operations.
 
 ---
 
-### 🧩 OOP Inheritance Programs
-
-Practice programs demonstrating core inheritance concepts.
-
-Covered Concepts  
-Single Inheritance  
-Multilevel Inheritance  
-Hierarchical Inheritance  
+### 💳 Bank Money Transfer System
+A system that simulates transferring money between accounts with proper validation.
 
 ---
 
-### 🏠 Home Decor Management System
+### 🏪 Shop Management System
+A product management system for handling shop items and operations.
 
-An Object Oriented Programming project based on real world product management.
+---
 
-Concepts Used  
-Abstraction  
-Runtime Polymorphism  
-Pure Virtual Functions  
-Function Overriding  
+### 🧾 Ordering System
+A simple ordering system to manage customer orders and processing.
+
+---
+
+### 📦 Order Menu System
+A menu-driven program to handle ordering operations efficiently.
+
+---
+
+### 🏠 Home Decor Store Management System
+A management system for home decor products with OOP structure.
+
+---
+
+### 🏠 Home Decor using Vector/Array
+Implementation of home decor system using STL vectors and arrays.
 
 ---
 
 ### 📚 Library Management System
-
-A console based library system developed using OOP principles.
-
-Features  
-Book management (Fiction, Academic, Reference)  
-Book borrowing and returning system  
-Fine calculation based on delay and book type  
+A library system with book management, borrowing, returning, and fine calculation features.
 
 ---
 
-## ⚙️ Technologies and Concepts
+### 🧩 Multi-Level Inheritance Program
+A program demonstrating multilevel inheritance concept in C++.
 
-💻 Programming Language: C++  
+---
 
-🧠 Core Concepts:  
-Classes and Objects  
-Constructors  
-Encapsulation  
-Inheritance  
-Polymorphism  
-Abstraction  
-Dynamic Memory Allocation  
+### 🧾 Simple Encapsulation Program
+A basic program showing encapsulation in OOP.
+
+---
+
+### 🚗 Vehicle Management System (Vector Based)
+A polymorphism-based vehicle system using vector and dynamic memory allocation.
+
+---
+
+## ⚙️ Technologies Used
+
+- C++
+- Object-Oriented Programming (OOP)
+- STL (Vector, Arrays)
+- Dynamic Memory Allocation
+
+**Core Concepts:**
+- Classes & Objects  
+- Constructors  
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
 
 ---
 
 ## 🚀 Purpose
 
-This repository demonstrates my practical understanding of Object Oriented Programming and system design using C++.
-
-It reflects my ability to convert theoretical concepts into working projects.
+This repository demonstrates my ability to implement theoretical OOP concepts into real working C++ console applications.
 
 ---
 
 ## 👨‍💻 Author
 
-Faris Khan  
+**Faris Khan**  
 BS Computer Science Student  
 Iqra University Islamabad  
