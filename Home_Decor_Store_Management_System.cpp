@@ -109,10 +109,10 @@ int main(){
 	HomeDecor*Hd=new WallDecor("Painting","wood",12);
 	Hd->display();
 	
-	HomeDecor*Hd1=new LightDecor("chandlier","metal",9);
+	HomeDecor*Hd1=new LightDecor("Lamp","metal",9);
 	Hd1->display();
 	
-	HomeDecor*Hd2=new FurnitureDecor("Bookself","wood",14);
+	HomeDecor*Hd2=new FurnitureDecor("Bookshelf","wood",14);
 	Hd2->display();
 
 delete Hd;
