@@ -114,5 +114,9 @@ int main(){
 	
 	HomeDecor*Hd2=new FurnitureDecor("Bookself","wood",14);
 	Hd2->display();
+
+delete Hd;
+delete Hd1;
+delete Hd2;
 	return 0;
 }
