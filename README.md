@@ -90,6 +90,11 @@ A polymorphism based vehicle system using vector and dynamic memory allocation.
 
 ---
 
+### 🏢 Hostal Management System (Simple inheritance)
+A single level inheritance is used in this program also add polymorhpism early polymorphism.
+
+---
+
 ## ⚙️ Technologies Used
 
 - C++
