@@ -45,7 +45,8 @@ int main(){
 			case 1:{
 				string na,st;
 				int qnty;
-			//input loop...
+			
+
 			for(int i=0;i<n;i++){
 				cout<<"\nEnter the Customar Name: ";
 				cin>>na;
@@ -71,7 +72,7 @@ int main(){
 				cout<<"Enter the Order Index Number: ";
 				cin>>index;
 				if(index>=0&&index<n){
-					cout<<"========Updating Data======="<<endl;
+					cout<<"========Updating Information======="<<endl;
 					cout<<"Customar name "<<od[index].getName()<<endl;
 					
 					cout<<"Enter New Quantity: ";
@@ -92,7 +93,7 @@ int main(){
 				break;
 			}
 				case 3:{
-					cout<<"======Display Order Details======"<<endl;
+					cout<<"======Display Details======"<<endl;
 				for(int i=0;i<n;i++){
 					cout<<"Name: "<<od[i].getName()<<endl;
 					cout<<"Status: "<<od[i].getStatus()<<endl;
