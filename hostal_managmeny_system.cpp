@@ -9,7 +9,6 @@ string city[100];
 long long mobile[100];
 int fees[100];
 int total=0;
-
 public:
 
 void addStudent(){
