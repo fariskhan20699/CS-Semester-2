@@ -95,10 +95,10 @@ A single level inheritance is used in this program also add polymorhpism early p
 
 ---
 
----
-
 ### 🧮 Sharp calculator 
 A abstration is used in this program also add with array and pointers.
+
+---
 ## ⚙️ Technologies Used
 
 - C++
